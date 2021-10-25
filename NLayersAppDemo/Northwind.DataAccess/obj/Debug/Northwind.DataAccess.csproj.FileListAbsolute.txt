@@ -1,0 +1,13 @@
+C:\Users\Cery\source\repos\NLayersAppDemo\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.dll.config
+C:\Users\Cery\source\repos\NLayersAppDemo\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.dll
+C:\Users\Cery\source\repos\NLayersAppDemo\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.pdb
+C:\Users\Cery\source\repos\NLayersAppDemo\Northwind.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Cery\source\repos\NLayersAppDemo\Northwind.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cery\source\repos\NLayersAppDemo\Northwind.DataAccess\bin\Debug\Northwind.Entities.dll
+C:\Users\Cery\source\repos\NLayersAppDemo\Northwind.DataAccess\bin\Debug\Northwind.Entities.pdb
+C:\Users\Cery\source\repos\NLayersAppDemo\Northwind.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Cery\source\repos\NLayersAppDemo\Northwind.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cery\source\repos\NLayersAppDemo\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Cery\source\repos\NLayersAppDemo\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Cery\source\repos\NLayersAppDemo\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.dll
+C:\Users\Cery\source\repos\NLayersAppDemo\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.pdb
